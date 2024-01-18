@@ -1,1 +1,3 @@
-# CodSoft
+Task1 Welcome to the Titanic Classification project repository! This project aims to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, class, and more.
+Task2 This repository contains the Iris Classification Machine Learning Project. Which is a comprehensive exploration of machine learning techniques applied to the classification of iris flowers into different species based on their physical characteristics.
+Task3 The project is to recognize fraudulent credit transactions. You only need to put the dataset and model will detect the fraudulent credit transactions.
